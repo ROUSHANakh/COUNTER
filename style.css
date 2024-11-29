@@ -1,21 +1,21 @@
 
 .headd{
-    margin-top:70px;
-    margin-left: 200px;
+    margin-top:10%;
+    margin-left: 40%;
     font-size: 60px;
     font-family: 'Times New Roman';
     font-weight: 700;
 }
 #value {
-    margin-top: 80px;
-    margin-left: 300px;
+    margin-top: 5%;
+    margin-left: 45%;
     font-size: 60px;
     color: black;
     
 }
 .button-container{
-margin-top: 60px;
-margin-left: 130px;
+margin-top: 0%;
+margin-left: 32%;
 }
 .btn {
     margin: 20px;
